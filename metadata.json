@@ -1,0 +1,7 @@
+{
+  "name": "CareerHero AI: Resume & Job Portal",
+  "description": "An all-in-one professional growth platform featuring an AI-powered resume builder, job matching engine, and application tracker inspired by modern development workflows.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
